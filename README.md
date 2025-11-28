@@ -5,7 +5,7 @@ I'm currently pursuing my Master's in Computer Science at Georgia Tech.
 I hold both a Bachelor of Science and a Master of Science in Petroleum Engineering from Sharif University of Technology and the University of Calgary.
 
 **🔍 Research Interests:**
-I'm deeply passionate about applying Artificial Intelligence and Machine Learning in the field of Petroleum Engineering—particularly to drive innovation and efficiency in energy production.
+I'm deeply passionate about applying Artificial Intelligence and Machine Learning in the field of Petroleum Engineering, particularly to drive innovation and efficiency in energy production.
 
 **📚 What I Do:**
 As a Reservoir Engineer, I develop digital solutions for in-situ Steam Assisted Gravity Drainage (SAGD) operations.
